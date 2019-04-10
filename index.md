@@ -6,7 +6,7 @@
 ## 中国ハルビン出身
 
 ![Hometown](https://user-images.githubusercontent.com/49139754/55875124-32ca7e00-5bcf-11e9-816c-cc3a70f3b4c4.png)
-![Ice](https://user-images.githubusercontent.com/49139754/55877788-ecc4e880-5bd5-11e9-9254-33a9942fc6cf.png）
+![Ice](https://user-images.githubusercontent.com/49139754/55878780-1717a580-5bd8-11e9-960e-ed7811f0b7dc.jpg）
 ![Crane](https://user-images.githubusercontent.com/49139754/55878611-bf793a00-5bd7-11e9-8d02-d4b3da61c3e1.jpg)
 
 
