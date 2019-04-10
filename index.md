@@ -1,7 +1,7 @@
 ## 楊剣と申します。
 中国の漢語スペリング（漢語拼音）で、
 
-<center>楊＝Yang, 剣 = Jian</center>
+<center>楊＝Yang,      剣 = Jian</center>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
