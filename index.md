@@ -5,7 +5,6 @@
 
 ## 故郷は中国のハルビンです。
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
