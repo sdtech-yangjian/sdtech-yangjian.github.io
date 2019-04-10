@@ -3,8 +3,7 @@
 
 <center>楊＝Yang,      剣 = Jian</center>
 
-## 故郷はハルビンです。
-
+## 故郷は中国のハルビンです。
 
 ```markdown
 Syntax highlighted code block
