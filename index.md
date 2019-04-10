@@ -1,5 +1,5 @@
 ## 楊剣と申します。
-中国の漢語スペリング（漢語拼音）で、
+中国の漢語スペリング（<font color="MediumOrchid">漢語拼音</font>）で、
 
 <center>楊＝Yang,      剣 = Jian</center>
 ### Markdown
