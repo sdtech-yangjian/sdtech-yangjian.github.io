@@ -5,6 +5,7 @@
 
 ## 中国ハルビン出身
 ![some image](https://user-images.githubusercontent.com/49139754/55875124-32ca7e00-5bcf-11e9-816c-cc3a70f3b4c4.png)
+![ice world]（https://user-images.githubusercontent.com/49139754/55877491-0e71a000-5bd5-11e9-8c7d-4e31fbacfc7b.jpg）
 
 - Bulleted
 - List
