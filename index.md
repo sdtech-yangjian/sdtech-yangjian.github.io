@@ -13,4 +13,5 @@
 
 
 ## Harbin International Ice and Snow Festival 
-![Ice_Intro](https://user-images.githubusercontent.com/49139754/55925106-88427180-5c47-11e9-8312-239bcce9fc6b.jpg)
+![Ice_Intro_1](https://user-images.githubusercontent.com/49139754/55925106-88427180-5c47-11e9-8312-239bcce9fc6b.jpg)
+![Ice_Intro_2](https://user-images.githubusercontent.com/49139754/55925140-a60fd680-5c47-11e9-8f7c-dc532965c117.jpg)
