@@ -13,4 +13,4 @@
 
 
 ## Harbin International Ice and Snow Festival 
-
+![Ice_Intro](https://user-images.githubusercontent.com/49139754/55925106-88427180-5c47-11e9-8312-239bcce9fc6b.jpg)
