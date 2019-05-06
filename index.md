@@ -1,7 +1,11 @@
 ## 楊剣(Yang JiAn)と申します
 
+## 2014.4-2019.3 大阪大学情報科学研究科　情報数理専攻　非線形数理講座　偏微分方程式グループ
 
-## 
+## 偏微分方程式で作った力学系モデルの解の特性と、数値シミュレーション
+![Equation](https://user-images.githubusercontent.com/49139754/57222946-66b68900-703f-11e9-8e73-88c2b211061f.png)
+
+![Numerical](https://user-images.githubusercontent.com/49139754/57223484-307a0900-7041-11e9-9ddd-07b575766d96.PNG)
 
 ## 中国のハルビン出身
 
