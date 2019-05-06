@@ -32,6 +32,5 @@
 ![Construct_4](https://user-images.githubusercontent.com/49139754/55930234-5d621880-5c5b-11e9-84ac-5941923df56e.jpg)
 ## Harbin Snowman festival
 ![Construct_5](https://user-images.githubusercontent.com/49139754/55930270-88e50300-5c5b-11e9-8aa7-8c53f0e00bc3.jpg)
-![Snowman_1](https://user-images.githubusercontent.com/49139754/57229399-ef89f080-7050-11e9-85bd-438722832899.jpg)
-![Snowman_2](https://user-images.githubusercontent.com/49139754/57229401-f0bb1d80-7050-11e9-9722-ba988915b98c.jpg)
+![Snowman_1](https://user-images.githubusercontent.com/49139754/57229676-a1c1b800-7051-11e9-8739-dc88ab521155.PNG)
 ![Snowman_3](https://user-images.githubusercontent.com/49139754/57229405-f1ec4a80-7050-11e9-86a0-0eaba4a04b42.jpg)
