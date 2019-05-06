@@ -1,7 +1,7 @@
 ## 楊剣と申します
 漢語スペリングで、
 
-<center>楊＝Yang,      剣 = Jian</center>
+<center>楊＝Yang,     　　  剣 = Jian</center>
 
 
 ## 
