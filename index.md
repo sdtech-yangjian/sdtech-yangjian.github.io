@@ -13,11 +13,20 @@
 
 ![Hometown](https://user-images.githubusercontent.com/49139754/55875124-32ca7e00-5bcf-11e9-816c-cc3a70f3b4c4.png)
 
-
-## ジャロン湿原（モンゴル語)、釧路湿原と同じく、丹頂鶴の生息地として有名　　
+## ジャロン湿原（モンゴル語)、釧路湿原と同じく、丹頂鶴の生息地
 ![Crane](https://user-images.githubusercontent.com/49139754/55878611-bf793a00-5bd7-11e9-8d02-d4b3da61c3e1.jpg)
-
 
 ## Harbin International Ice and Snow Festival 
 ![Ice_Intro_1](https://user-images.githubusercontent.com/49139754/55925106-88427180-5c47-11e9-8312-239bcce9fc6b.jpg)
 ![Ice_Intro_2](https://user-images.githubusercontent.com/49139754/55925140-a60fd680-5c47-11e9-8f7c-dc532965c117.jpg)
+
+## The ice is all from nearby rivers
+![River_0](https://user-images.githubusercontent.com/49139754/55930162-12480580-5c5b-11e9-8086-749d768436bc.jpg)
+![River_1](https://user-images.githubusercontent.com/49139754/55930171-225fe500-5c5b-11e9-89d2-7af0a3ccb241.jpg)
+![River_2](https://user-images.githubusercontent.com/49139754/55930177-255ad580-5c5b-11e9-9677-b7454f0fbc99.jpg)
+![Construct_0](https://user-images.githubusercontent.com/49139754/55930188-33a8f180-5c5b-11e9-88dd-8a54890e02a9.jpg)
+![Construct_1](https://user-images.githubusercontent.com/49139754/55930202-458a9480-5c5b-11e9-826d-3f29e20b361f.jpg）
+![Construct_2](https://user-images.githubusercontent.com/49139754/55930216-51765680-5c5b-11e9-9d52-6d800faf5431.jpg)
+![Construct_3](https://user-images.githubusercontent.com/49139754/55930226-56d3a100-5c5b-11e9-85a8-72b818a8ed46.jpg)
+![Construct_4](https://user-images.githubusercontent.com/49139754/55930234-5d621880-5c5b-11e9-84ac-5941923df56e.jpg)
+![Construct_5](https://user-images.githubusercontent.com/49139754/55930270-88e50300-5c5b-11e9-8aa7-8c53f0e00bc3.jpg)
