@@ -1,4 +1,4 @@
-## 楊剣(Yang JiAn)と申します
+## 楊剣(Yang JiAn)と申します、29歳
 
 ## 2014.4-2019.3 大阪大学情報科学研究科　情報数理専攻　非線形数理講座　偏微分方程式グループ
 
@@ -6,6 +6,8 @@
 ![Equation](https://user-images.githubusercontent.com/49139754/57222946-66b68900-703f-11e9-8e73-88c2b211061f.png)
 
 ![Numerical](https://user-images.githubusercontent.com/49139754/57223484-307a0900-7041-11e9-9ddd-07b575766d96.PNG)
+
+![Phd](https://user-images.githubusercontent.com/49139754/57226193-63c09600-7049-11e9-8dae-e07f2d754d20.PNG)
 
 ## 中国のハルビン出身
 
