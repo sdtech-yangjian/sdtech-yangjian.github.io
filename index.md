@@ -4,6 +4,9 @@
 ## 非線形数理講座　
 ## 偏微分方程式グループ
 
+## 研究：１）森林の空間的なパターンの時間発展 
+##       ２）Multi-target Chasing Self-organizing Bio-nanomachines
+
 ## 偏微分方程式で作った力学系モデルの解の特性と、数値シミュレーション
 ![Equation](https://user-images.githubusercontent.com/49139754/57222946-66b68900-703f-11e9-8e73-88c2b211061f.png)
 
